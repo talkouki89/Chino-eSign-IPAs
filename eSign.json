@@ -5,6 +5,17 @@
     "sourceURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/eSgin.json",
     "apps": [
       {
+        "name": "測試簽名用(打開不閃退為成功)",
+        "bundleIdentifier": "com.chino-catest",
+        "version": "1.0",
+        "versionDate": "2099-12-12",
+        "size": 1585631,
+        "downloadURL": "https://dl.getdropbox.com/scl/fi/n6xh5f51f58az9ld0dq8h/.ipa?rlkey=830pq91rzirka02ixvnthqdpp&st=dr0sxo02&dl=0",
+        "developerName": "N/A",
+        "localizedDescription": "測試簽名用(打開不閃退為成功)",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/icons/Peko.jpg"
+      },      
+      {
         "name": "Eros-FE",
         "bundleIdentifier": "cn.honjow.fehv",
         "version": "1.6.1",
