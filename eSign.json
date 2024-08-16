@@ -1,18 +1,19 @@
 {
     "name": "Chino-eSign-IPALibrary",
     "identifier": "xyz.chino.ipalibrary",
+    "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/icons/Peko.jpg",
     "sourceURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/eSgin.json",
     "apps": [
       {
-        "name": "",
-        "bundleIdentifier": "",
-        "version": "",
-        "versionDate": "",
-        "size": "",
-        "downloadURL": "",
-        "developerName": "",
-        "localizedDescription": "",
-        "iconURL": ""
+        "name": "Eros-FE",
+        "bundleIdentifier": "cn.honjow.fehv",
+        "version": "1.6.1",
+        "versionDate": "2024-04-03",
+        "size": 27388308,
+        "downloadURL": "https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Eros-FE_1.6.1+541.ipa",
+        "developerName": "3003h",
+        "localizedDescription": "E-Hentai\n最後更新時間: 04-03-2024\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/cn.honjow.fehv.png"
       }
     ]
   }
