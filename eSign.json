@@ -13,7 +13,51 @@
         "downloadURL": "https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Eros-FE_1.6.1+541.ipa",
         "developerName": "3003h",
         "localizedDescription": "E-Hentai\n最後更新時間: 04-03-2024\n狀態: \u2705",
-        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/cn.honjow.fehv.png"
-      }
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/icons/cn.honjow.fehv.png"
+      },
+      {
+        "name": "EhPanda",
+        "bundleIdentifier": "zeng.EhPanda",
+        "version": "2.7.5",
+        "versionDate": "2024-07-10",
+        "size": 6590738,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-16-2024/EhPanda-2.7.5.ipa",
+        "developerName": "EhPanda-Team",
+        "localizedDescription": "E-Hentai\n最後更新時間: 07-10-2024\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/icons/zeng.EhPanda.png"
+      },
+      {
+        "name": "TrollInstallerX",
+        "bundleIdentifier": "com.Alfie.TrollInstallerX",
+        "version": "1.0.2",
+        "versionDate": "2024-04-09",
+        "size": 6888282,
+        "downloadURL": "https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollInstallerX-1.0.2.ipa",
+        "developerName": "alfiecg24",
+        "localizedDescription": "適用於 iOS 14.0 至 16.6.1 的 TrollStore 安裝程序\n最後更新時間: 04-09-2024\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/icons/com.Alfie.TrollInstallerX.png"
+      },
+      {
+        "name": "美图秀秀-破解解锁SVIP功能",
+        "bundleIdentifier": "com.meitu.mtxx",
+        "version": "10.16.0",
+        "versionDate": "2024-08-03",
+        "size": 277139031,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-16-2024/MeituPlusPlus-10.16.0.ipa",
+        "developerName": "KUKA",
+        "localizedDescription": "去除所有广告\n破解解锁SVIP功能\n解锁所有功能不会显示\n滤镜美容等功能没问题，部分Ai功能失效\n最後更新時間: 08-03-2024\n狀態: \u2705 \u2b50",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/icons/com.meitu.mtxx.png"
+      },
+      {
+        "name": "EeveeSpotify",
+        "bundleIdentifier": "com.spotify.client",
+        "version": "8.9.64",
+        "versionDate": "2024-08-09",
+        "size": 76468550,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-16-2024/EeveeSpotify-8.9.64.ipa",
+        "developerName": "whoeevee",
+        "localizedDescription": "為最初但現已過時的 Spotilife 調整的繼承者，EeveeSpotify 成為第一個也是唯一一個（目前）具有訪問 Spotify Premium 巨大潛力的Tweak。\n最後更新時間: 08-09-2024\n狀態: \u2705 \u2b50 \ud83d\udc4d",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSgin-IPAs/main/icons/com.spotify.client.png"
+      }     
     ]
   }
