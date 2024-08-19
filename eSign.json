@@ -258,6 +258,17 @@
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.justmonika.ios.png"
       }, 
       {
+        "name": "Kirikiroid2",
+        "bundleIdentifier": "tvp.XP3Player.free",
+        "version": "1.3.9",
+        "versionDate": "2018-07-10",
+        "size": 30824542,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-19-2024/Kirikiroid2-1.3.9.ipa",
+        "developerName": "N/A",
+        "localizedDescription": "吉里吉里(KRKR)\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/tvp.XP3Player.free.png"
+      },        
+      {
         "name": "FallGuys-Fixed",
         "bundleIdentifier": "uk.co.mediatonic.fallguys",
         "version": "11.1.4",
