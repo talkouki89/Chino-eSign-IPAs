@@ -161,12 +161,12 @@
       {
         "name": "VSCOPremium",
         "bundleIdentifier": "co.visualsupply.cam",
-        "version": "384.0.0",
-        "versionDate": "2024-07-30",
-        "size": 136556136,
-        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-17-2024/VSCOPremium-384.0.0.ipa",
+        "version": "387.0.0",
+        "versionDate": "2024-08-17",
+        "size": 140038504,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-19-2024/VSCOPremium-387.0.0.ipa",
         "developerName": "N/A",
-        "localizedDescription": "VSCO 已解鎖高級功能。\n最後更新時間: 07-30-2024\n狀態: \u2705",
+        "localizedDescription": "VSCO 已解鎖高級功能。\n最後更新時間: 08-17-2024\n狀態: \u2705",
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/co.visualsupply.cam.png"
       },  
       {
@@ -201,7 +201,40 @@
         "developerName": "N/A",
         "localizedDescription": "注入了 Satella。按一下購買，然後按一下“取消“。\n最後更新時間: 08-14-2024\n狀態: \u2705",
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.adobe.lrmobilephone.png"
-      },  
+      }, 
+      {
+        "name": "LightroomiPad",
+        "bundleIdentifier": "com.adobe.lrmobile",
+        "version": "9.5.0",
+        "versionDate": "2024-08-19",
+        "size": 175337491,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-19-2024/LightroomiPad-9.5.0.ipa",
+        "developerName": "N/A",
+        "localizedDescription": "注入了 Satella。按一下購買，然後按一下“取消“。僅適用於 iPad。\n最後更新時間: 08-19-2024\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.adobe.lrmobilephone.png"
+      }, 
+      {
+        "name": "ProcreatePocket",
+        "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+        "version": "4.0.11",
+        "versionDate": "2024-06-30",
+        "size": 302479486,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-17-2024/ProcreatePocket-4.0.11.ipa",
+        "developerName": "N/A",
+        "localizedDescription": "AppStore版本\n最後更新時間: 06-30-2024\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png"
+      },      
+      {
+        "name": "Genie",
+        "bundleIdentifier": "co.appnation.geniechat",
+        "version": "6.4.5",
+        "versionDate": "2024-08-19",
+        "size": 55189539,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-19-2024/Genie-6.4.5.ipa",
+        "developerName": "N/A",
+        "localizedDescription": "解鎖Premium\n最後更新時間: 08-08-2024\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/co.appnation.geniechat.png"
+      },             
       {
         "name": "Goodnotes6",
         "bundleIdentifier": "com.goodnotesapp.x",
@@ -213,17 +246,6 @@
         "localizedDescription": "有問題請回報\n最後更新時間: 08-08-2024\n狀態: \u2705",
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.goodnotesapp.x.png"
       },  
-      {
-        "name": "ProcreatePocket",
-        "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
-        "version": "4.0.11",
-        "versionDate": "2024-06-30",
-        "size": 302479486,
-        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-17-2024/ProcreatePocket-4.0.11.ipa",
-        "developerName": "N/A",
-        "localizedDescription": "AppStore版本\n最後更新時間: 06-30-2024\n狀態: \u2705",
-        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png"
-      }, 
       {
         "name": "DDLC簡體漢化版v3",
         "bundleIdentifier": "com.justmonika.ios",
