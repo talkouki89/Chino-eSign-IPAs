@@ -223,6 +223,50 @@
         "developerName": "N/A",
         "localizedDescription": "AppStore版本\n最後更新時間: 06-30-2024\n狀態: \u2705",
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png"
-      }                    
+      }, 
+      {
+        "name": "DDLC簡體漢化版v3",
+        "bundleIdentifier": "com.justmonika.ios",
+        "version": "1.1.1",
+        "versionDate": "2024-08-19",
+        "size": 258634382,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-19-2024/DDLC_Club3.ipa",
+        "developerName": "N/A",
+        "localizedDescription": "已知問題：即使語言為中文，遊戲部分文字仍會穩定為英文顯示。（未修復）\n最後更新時間: 08-19-2024\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.justmonika.ios.png"
+      },
+      {
+        "name": "DDLC-iOS",
+        "bundleIdentifier": "moe.ddlc.DokiDokiLiteratureClub.HappyRespawnanchor",
+        "version": "1.1.0",
+        "versionDate": "2024-08-19",
+        "size": 230990309,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-19-2024/DDLC_iOS.ipa",
+        "developerName": "N/A",
+        "localizedDescription": "這只是iOS的DDLC的簡單移植，使用RenPy編輯器製作。\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.justmonika.ios.png"
+      }, 
+      {
+        "name": "DDLC-RPG",
+        "bundleIdentifier": "ai.paisseon.ddlc-rpg",
+        "version": "1.0",
+        "versionDate": "2024-08-19",
+        "size": 360965036,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-19-2024/DDLC_RPG.ipa",
+        "developerName": "N/A",
+        "localizedDescription": "RPG版DDLC\n用兩根手指點擊即可儲存/加載，或離開首選項/製作人員頁面\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.justmonika.ios.png"
+      }, 
+      {
+        "name": "FallGuys-Fixed",
+        "bundleIdentifier": "uk.co.mediatonic.fallguys",
+        "version": "11.1.4",
+        "versionDate": "2024-08-19",
+        "size": 1833608805,
+        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-19-2024/FallGuys_fixed.ipa",
+        "developerName": "N/A",
+        "localizedDescription": "Fall Guys 修復了 TrollStore iOS 16.0-17.0 的 iPA，也側載了 17.0.1-17.5.1\n最後更新時間: 08-19-2024\n狀態: \u2705",
+        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/uk.co.mediatonic.fallguys.png"
+      }                                            
     ]
   }
