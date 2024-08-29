@@ -236,17 +236,6 @@
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/co.appnation.geniechat.png"
       },             
       {
-        "name": "Goodnotes6",
-        "bundleIdentifier": "com.goodnotesapp.x",
-        "version": "6.3.50",
-        "versionDate": "2024-08-08",
-        "size": 381342859,
-        "downloadURL": "https://github.com/talkouki89/Chino-eSign-IPAs/releases/download/08-17-2024/Goodnotes6-6.3.50.ipa",
-        "developerName": "N/A",
-        "localizedDescription": "有問題請回報\n最後更新時間: 08-08-2024\n狀態: \u2705",
-        "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.goodnotesapp.x.png"
-      },  
-      {
         "name": "DDLC簡體漢化版v3",
         "bundleIdentifier": "com.justmonika.ios",
         "version": "1.1.1",
