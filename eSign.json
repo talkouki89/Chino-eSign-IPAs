@@ -38,14 +38,14 @@
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/zeng.EhPanda.png"
       },
       {
-        "name": "YouTube-Plus",
+        "name": "YTPlus",
         "bundleIdentifier": "com.google.ios.youtube",
         "version": "19.32.8",
-        "versionDate": "2024-08-16",
+        "versionDate": "2024-09-01",
         "size": 107673084,
-        "downloadURL": "https://dl.getdropbox.com/scl/fi/qab3phrd4yornrqzlo7fu/YouTube-8_N-Plus-19.32.8.ipa?rlkey=2xpmhoe09u3cagkqab7rifygc&st=7ywhpyic&dl=0",
+        "downloadURL": "https://dl.getdropbox.com/scl/fi/o70ma6av18eo3nxsqrqlr/YTPlusTweaks_5.0_19.34.2.ipa?rlkey=dur66qo6dp4xmwuxhu3zp6qi8&st=2fuqoq3h&dl=0",
         "developerName": "N/A",
-        "localizedDescription": "YTLite(綜合多功能插件)，選項位於“設定—YouTube Plus”，更多功能請啟用“YouTube Plus—版本—進階模式”。下載、去廣告、後台播放、隱藏投射/通知/搜尋、調節播放器等等。\nYouPIP(畫中畫)，選項在YouTube設定—YouPiP。\nYTUHD(VP9解碼)，選項在YouTube設定—影片畫質偏好—啟用VP9編碼。\nYouMute(播放介面靜音按鈕)，選項在YouTube設定—「靜音/畫質」按鈕。\nYouQuality(播放介面畫質按鈕)，選項在YouTube設定—「靜音/畫質」按鈕。\niSponsorBlock(攔截推廣、廣告等)，選項在YouTube右上角—盾牌樣式按鈕。\n最後更新時間: 08-16-2024\n狀態: \u2705 \ud83d\udc4d",
+        "localizedDescription": "注入YouTube Plus, YTUHD and Return Youtube Dislikes\n最後更新時間: 09-01-2024\n狀態: \u2705 \ud83d\udc4d",
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/com.google.ios.youtube.png"
       },
       {
@@ -235,6 +235,7 @@
         "localizedDescription": "解鎖Premium\n最後更新時間: 08-08-2024\n狀態: \u2705",
         "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-eSign-IPAs/main/icons/co.appnation.geniechat.png"
       },             
+      
       {
         "name": "DDLC簡體漢化版v3",
         "bundleIdentifier": "com.justmonika.ios",
